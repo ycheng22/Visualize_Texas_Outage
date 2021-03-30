@@ -19,4 +19,5 @@ I collect outage data, weather history data and Texas county data.
 **Output**
 I used Tableau Public 2021.1 to visualize the data.
 Please find the final result:
-<iframe src="https://public.tableau.com/profile/ycheng#!/vizhome/ot6_Sorted_Bar_of_Reduced_MW_by_County/Story1"></iframe>
+
+<iframe src="https://public.tableau.com/profile/ycheng#!/vizhome/ot3_Line_of_Outage_and_Temp/ot3_Line_of_Outage_and_Temp"></iframe>
