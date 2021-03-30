@@ -19,6 +19,7 @@ I collect outage data, weather history data and Texas county data from below sou
 `cnty_weather_out_v3.csv` is the final processed data.
 
 **Output**
+
 I used Tableau Public 2021.1 to visualize the data.
 
 Please find the final result:
