@@ -25,4 +25,6 @@ Please find the final result:
 
 https://public.tableau.com/profile/ycheng#!/vizhome/ot6_Sorted_Bar_of_Reduced_MW_by_County/Story1
 
-Images:
+**Images**
+
+![](./images/1.png)
