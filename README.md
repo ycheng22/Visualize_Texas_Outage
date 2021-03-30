@@ -27,4 +27,4 @@ https://public.tableau.com/profile/ycheng#!/vizhome/ot6_Sorted_Bar_of_Reduced_MW
 
 **Images**
 
-<img src="./images/1.png" width="400" height="400" />
+<img src="./images/1.png" width="600" height="600" />
